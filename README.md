@@ -4,7 +4,7 @@ I had created this list sometime in 2020 for myself and recently going back to s
 Its helpful for those that have pihole and or adguard on portable devices on the go.
 
 
-What this contains exactly? List of domains being joined and extracted from duplicates. This is a rough sorted script thats a nice cleaned and tightied.
+What this contains exactly? List of domains being joined and extracted from duplicates. This is a rough sorted script thats a nice cleaned and tightied. Generated log included.
 
 Links from github and some other places.
 
