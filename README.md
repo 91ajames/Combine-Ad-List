@@ -4,9 +4,7 @@ I had created this list sometime in 2020 for myself and recently going back to s
 Its helpful for those that have pihole and or adguard on portable devices on the go.
 
 
-What this contains exactly? List of domains being joined and extracted from duplicates. This is a rough sorted script thats a nice cleaned and tightied. Generated log included.
-
-Links from github and some other places.
+What this contains exactly? List of domains from github and a few other sources being joined and sorted from duplicates under /docker/combine-host2. This is a rough sorted script thats cleaned and tightied. Generated log included. 
 
 I'm not going to keep this updated due to self explanatory.
 
@@ -19,4 +17,4 @@ Only issues is github due to there url certification when viewing the list of do
 Never had this issue in the past, if someone wants to lend a hand and fix it, be my guess. Will update!
 
 
-Plain list of links will be downloaded and sorted under /docker/combine-host2 
+
