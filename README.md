@@ -1,7 +1,7 @@
 # Combine-Ad-List
 I had created this list sometime in 2020 for myself and recently going back to some old projects to see what is what that others may enjoy.
 
-Its helpful for those that have adguard on portable devices on the go.
+Its helpful for those that have pihole and or adguard on portable devices on the go.
 
 
 What this contains exactly? List of domains being joined and extracted from duplicates. This is a rough sorted script thats a nice cleaned and tightied.
